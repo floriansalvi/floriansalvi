@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![profile cover](https://github.com/floriansalvi/floriansalvi/raw/main/cover.jpg)
+
 <!--
 **floriansalvi/floriansalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
