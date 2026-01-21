@@ -6,14 +6,25 @@
 
 
 ## 💻 Tech Stack
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="28" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28" alt="Python">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="28" alt="PHP">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28" alt="Node.js">
-  <img src="https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white" height="28" alt="uv">
-</div>
+
+### Languages
+<img
+    src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white"
+    height="32"
+    alt="JavaScript"
+>
+
+### Front-end
+
+
+### Back-end
+
+
+### Databases
+
+
+### Testing
+
 
 ## 🔗 Let's keep in touch !
 
