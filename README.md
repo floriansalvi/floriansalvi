@@ -8,13 +8,15 @@
 ## 💻 Tech Stack
 
 ### Languages
-<img src="https://img.shields.io/badge/HTML5-D35835?logo=html5&logoColor=white" height="40" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-304CDB?logo=css3&logoColor=white" height="32" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F3E050?logo=javascript&logoColor=white" height="32" alt="JavaScript">
-<img src="https://img.shields.io/badge/Typescript-4476C0?logo=typescript&logoColor=white" height="32" alt="Typescript">
-<img src="https://img.shields.io/badge/PHP-787BAF?logo=php&logoColor=white" height="32" alt="PHP">
-<img src="https://img.shields.io/badge/SQL-D07236?logo=mysql&logoColor=white" height="32" alt="SQL">
-<img src="https://img.shields.io/badge/NoSql-003545?style=for-the-badge&logo=mongodb&logoColor=white" height="32" alt="NoSQL"
+<div>
+    <img src="https://img.shields.io/badge/HTML5-D35835?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-304CDB?style=for-the-badge&logo=css3&logoColor=white" height="32" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F3E050?style=for-the-badge&logo=javascript&logoColor=white" height="32" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Typescript-4476C0?style=for-the-badge&logo=typescript&logoColor=white" height="32" alt="Typescript">
+    <img src="https://img.shields.io/badge/PHP-787BAF?style=for-the-badge&logo=php&logoColor=white" height="32" alt="PHP">
+    <img src="https://img.shields.io/badge/SQL-D07236?style=for-the-badge&logo=mysql&logoColor=white" height="32" alt="SQL">
+    <img src="https://img.shields.io/badge/NoSql-003545?style=for-the-badge&logo=mongodb&logoColor=white" height="32" alt="NoSQL">
+</div>
 
 ### Front-end
 
