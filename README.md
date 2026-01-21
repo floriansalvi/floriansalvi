@@ -8,11 +8,7 @@
 ## 💻 Tech Stack
 
 ### Languages
-<img
-    src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white"
-    height="32"
-    alt="JavaScript"
->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript">
 
 ### Front-end
 
